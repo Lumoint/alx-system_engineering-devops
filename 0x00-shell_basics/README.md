@@ -1,4 +1,3 @@
-[master ac0888e] my script on shell
- 2 files changed, 5 insertions(+)
- create mode 100755 0x00-shell_basics/12-file_type
- create mode 100644 0x00-shell_basics/REDAME.md
+[master bf15521] my script on shell
+ 2 files changed, 6 insertions(+), 3 deletions(-)
+ create mode 100755 0x00-shell_basics/13-symbolic_link
