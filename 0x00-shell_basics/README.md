@@ -1,3 +1,4 @@
-[master ec3864b] my script on shell
- 2 files changed, 5 insertions(+), 4 deletions(-)
- create mode 100755 0x00-shell_basics/10-back
+[master ac0888e] my script on shell
+ 2 files changed, 5 insertions(+)
+ create mode 100755 0x00-shell_basics/12-file_type
+ create mode 100644 0x00-shell_basics/REDAME.md
