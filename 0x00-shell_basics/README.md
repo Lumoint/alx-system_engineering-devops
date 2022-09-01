@@ -1,3 +1,2 @@
-[master 27e89d7] my script two on shell
- 2 files changed, 7 insertions(+), 1 deletion(-)
- create mode 100755 0x00-shell_basics/1-listit
+[master 397df5c] my script one on shell
+ 1 file changed, 3 insertions(+), 4 deletions(-)
