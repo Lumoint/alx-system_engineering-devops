@@ -1,2 +1,2 @@
-[master 50e3b53] my script on shell
- 2 files changed, 4 insertions(+), 5 deletions(-)
+[master f25299a] my script on shell
+ 2 files changed, 3 insertions(+), 4 deletions(-)
