@@ -1,3 +1,2 @@
-[master fb0d9fd] my script on shell
- 2 files changed, 5 insertions(+), 3 deletions(-)
- create mode 100755 0x00-shell_basics/5-listfilesdigitonly
+[master 0c56545] my script on shell
+ 2 files changed, 3 insertions(+), 3 deletions(-)
