@@ -1,4 +1,3 @@
-[master f7400c3] my scipt one
- 2 files changed, 3 insertions(+)
- create mode 100755 0x01-shell_permissions/0-iam_betty
- create mode 100644 0x01-shell_permissions/README.md
+[master 2bc9e4c] my script two
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+ create mode 100755 0x01-shell_permissions/1-who_am_i
