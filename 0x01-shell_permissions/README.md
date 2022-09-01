@@ -1,1 +1,4 @@
-a script that switches the current user to the user betty
+[master f7400c3] my scipt one
+ 2 files changed, 3 insertions(+)
+ create mode 100755 0x01-shell_permissions/0-iam_betty
+ create mode 100644 0x01-shell_permissions/README.md
