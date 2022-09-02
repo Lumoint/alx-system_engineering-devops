@@ -1,3 +1,3 @@
-[master 37afc64] my script thirteen
- 2 files changed, 4 insertions(+), 2 deletions(-)
- create mode 100755 0x01-shell_permissions/13-change_group
+[master a6123fa] my script in advance
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+ create mode 100755 0x01-shell_permissions/100-change_owner_and_group
