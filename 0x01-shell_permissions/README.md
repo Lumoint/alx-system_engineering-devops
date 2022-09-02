@@ -1,3 +1,3 @@
-[master 6c6096e] my script twelve
- 2 files changed, 5 insertions(+), 3 deletions(-)
- create mode 100755 0x01-shell_permissions/12-directory_permissions
+[master 37afc64] my script thirteen
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+ create mode 100755 0x01-shell_permissions/13-change_group
