@@ -1,1 +1,1 @@
-shell o/i
+shell redirections
